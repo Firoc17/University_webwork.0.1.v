@@ -1,0 +1,23 @@
+
+.st1{
+    color: red;
+}
+p.test{
+  width: 500px;
+  height: 500px;
+}
+.test1 {
+  background: url('../image/test1.png') no-repeat;
+}
+
+.test2 {
+  background: url('../image/test2.png') no-repeat;
+}
+
+.test3 {
+  background: url('../image/test3.png') no-repeat;
+}
+
+.test4 {
+  background: url('../image/test4.png') no-repeat;
+}
